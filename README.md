@@ -1,0 +1,2 @@
+# thqcom
+make app
